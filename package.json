@@ -1,0 +1,14 @@
+{
+  "name": "adhoc-proxy",
+  "version": "1.0.0",
+  "description": "Proxy stuff to your local network",
+  "main": "index.js",
+  "repository": "https://github.com/fandsdev/adhoc-proxy",
+  "author": "Fedor Borshev <fedor@borshev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.20.0",
+    "morgan": "^1.10.0"
+  }
+}
