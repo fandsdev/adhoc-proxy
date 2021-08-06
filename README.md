@@ -1,4 +1,6 @@
-# Create a proxy to your local network in one container!
+# adhoc-proxy
+
+A docker image to proxy outside requests to your local network
 
 `docker run -e TARGET=https://yandex.ru -p 3000:3000 ghcr.io/fandsdev/adhoc-proxy`
 
